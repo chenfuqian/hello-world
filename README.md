@@ -28,4 +28,24 @@ hello-world
 >> 树2
 >>> 树3
 
+![baidu](http://www.baidu.com/img/bdlogo.gif "鼠标悬停")
+
+[![baidu]](http://www.baidu.com)
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
+
+```Java
+public class Git{
+  
+  //default constructor
+  public Git(){
+  
+  }
+}
+```
+
+
+    `Thank you`
+
+    this is a command-line.
+    this is second command-line.
 
